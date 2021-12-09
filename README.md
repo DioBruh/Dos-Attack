@@ -102,9 +102,9 @@ Existem 2 modos possiveis para os ataques.
     </td>
   <td align="center">
       <a href="https://github.com/Josh-Washington">
-        <img src="https://avatars.githubusercontent.com/u/89495720?v=4" width="100px;" alt="Foto do DIO"/><br>
+        <img src="https://avatars.githubusercontent.com/u/89495720?v=4" width="100px;" alt="Foto do josh"/><br>
         <sub>
-          <b>Dio Brando</b>
+          <b>JOsh Washington</b>
         </sub>
       </a>
     </td>
