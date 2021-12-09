@@ -100,11 +100,7 @@ Existem 2 modos possiveis para os ataques.
         </sub>
       </a>
     </td>
-  </tr>
-</table>
-
-<table>
-    <td align="center">
+  <td align="center">
       <a href="https://github.com/Josh-Washington">
         <img src="https://avatars.githubusercontent.com/u/89495720?v=4" width="100px;" alt="Foto do DIO"/><br>
         <sub>
@@ -114,3 +110,4 @@ Existem 2 modos possiveis para os ataques.
     </td>
   </tr>
 </table>
+
