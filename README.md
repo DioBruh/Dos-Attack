@@ -56,14 +56,25 @@ optional arguments:
                         Number of sockets to use in the test
 ```
 
-### Uso para ip. 
+#### Uso para ip. 
 
 ```cmd
 python dos.py --ip <ip> -p <port> -s 500
 ```
 
-default port is: 80<br>
-default socks is: 150
+#### Em outro terminal, abra um ping no ip que está atacando.
+
+### Windows
+
+```bat
+ping <ip> -t
+```
+
+### Linux
+```cmd
+ping <ip> 
+```
+
 
 
 ### Uso para site.
