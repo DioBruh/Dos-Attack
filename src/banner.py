@@ -17,4 +17,3 @@ Don't attack private sites. That's illegal.
 My github: https://github.com/DioBruh/
 
     ''')
-banner()
