@@ -75,11 +75,6 @@ class args():
                 exit(1)
 
         if args.ip and args.sockets:
-            if args.sockets > 100000:
-                print('many sockets added. Your dos attack will be ignored.')
-                print('quitting.')
-                exit(1)
-            call_ban()
             try: 
                 print(strftime(f'['+'%X'+f'] Attacking: {args.ip}:{args.port} using sockets: {args.sockets}'))
                 dos(ip=args.ip, port=args.port, socks=args.sockets)
