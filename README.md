@@ -101,10 +101,10 @@ Existem 2 modos possiveis para os ataques.
       </a>
     </td>
   <td align="center">
-      <a href="https://github.com/Josh-Washington">
+      <a href="https://github.com/R0han-Kishibe">
         <img src="https://avatars.githubusercontent.com/u/89495720?v=4" width="100px;" alt="Foto do josh"/><br>
         <sub>
-          <b>Josh Washington</b>
+          <b>R0han </b>
         </sub>
       </a>
     </td>
