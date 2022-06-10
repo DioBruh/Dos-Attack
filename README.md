@@ -1,10 +1,10 @@
-# dos-attacker
+# DoS-attacker
 
-![GitHub repo size](https://img.shields.io/github/repo-size/DioBruh/tools-hacking?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/DioBruh/tools-hacking?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/DioBruh/tools-hacking?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/DioBruh/tools-hacking?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/DioBruh/tools-hacking?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/DioBruh/Dos-Attack?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/DioBruh/Dos-Attack?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/DioBruh/Dos-Attack?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/DioBruh/Dos-Attack?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/DioBruh/Dos-Attack?style=for-the-badge)
 
 <p>
   <img src="https://img2.gratispng.com/20180331/piw/kisspng-giant-panda-bear-pixel-art-5ac02cd75add07.0257870115225438313722.jpg"width="250px">
@@ -101,10 +101,10 @@ Existem 2 modos possiveis para os ataques.
       </a>
     </td>
   <td align="center">
-      <a href="https://github.com/R0han-Kishibe">
+      <a href="https://github.com/KobaWare">
         <img src="https://avatars.githubusercontent.com/u/89495720?v=4" width="100px;" alt="Foto do josh"/><br>
         <sub>
-          <b>R0han </b>
+          <b>KobaWare </b>
         </sub>
       </a>
     </td>
