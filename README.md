@@ -10,7 +10,7 @@ para verificar isso, é bem simples. Basta você digitar:
 python --version
 ```
 
-Caso sua versão do python não seja acima da 3.0, recomendo atualizar...
+Caso sua versão do python não seja acima da 3.0, recomendo atualizar...<br>
 (se bem que hoje em dia, atualiza sozinho... to refazendo o repost, fiz em 2021... perdoa aí vai)
 
 ## ☕ Utilização
