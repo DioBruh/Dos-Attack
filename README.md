@@ -11,7 +11,7 @@
 </p>
 
 ## ❕ Atenção
-* Não ataque sites privados. isto é illegal.
+* Não ataque sites privados. isto é ilegal.
 
 ## 🖥️ Pré-requisitos
 * Ultima versão do `Python3`.
@@ -71,7 +71,7 @@ ping <ip> -t
 ```
 
 ### Linux
-```cmd
+```bash
 ping <ip> 
 ```
 
@@ -83,31 +83,9 @@ ping <ip>
 python dos.py --http <web_site> -p <port> -s 500
 ```
 
-default port is: 80<br>
-default socks is: 150
+A porta padrão é: 80<br>
+O número de socks padrão é: 150
 
 Existem 2 modos possiveis para os ataques.
-* IP attack.
-* WebSite attack.
-
-## 🤝 Colaboradores.
-<table>
-    <td align="center">
-      <a href="https://github.com/DioBruh/">
-        <img src="https://github.com/OnlyFalopas/falopas-painel/blob/main/devs/87872423.jpg" width="100px;" alt="Foto do DIO"/><br>
-        <sub>
-          <b>Dio Brando</b>
-        </sub>
-      </a>
-    </td>
-  <td align="center">
-      <a href="https://github.com/KobaWare">
-        <img src="https://avatars.githubusercontent.com/u/89495720?v=4" width="100px;" alt="Foto do josh"/><br>
-        <sub>
-          <b>KobaWare </b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
+* IP attack. (para atacar ip)
+* WebSite attack. (para atacar sites, esse funciona melhor)
