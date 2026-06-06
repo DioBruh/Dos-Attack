@@ -67,8 +67,6 @@ ping <ip> -t
 ping <ip> 
 ```
 
-
-
 ### Uso para site.
 
 ```cmd
@@ -80,4 +78,11 @@ O número de socks padrão é: 150
 
 Existem 2 modos possiveis para os ataques.
 * IP attack. (para atacar ip)
+
+```cmd
+python dos.py -i 192.168.0.1 -p 80 -s 999
+```
 * WebSite attack. (para atacar sites, esse funciona melhor)
+```cmd
+python dos.py -u www.google.com -p 443 -s 999
+```
