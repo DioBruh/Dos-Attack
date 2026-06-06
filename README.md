@@ -1,10 +1,6 @@
 # DoS-attacker
-<p>
-  <img src="https://img2.gratispng.com/20180331/piw/kisspng-giant-panda-bear-pixel-art-5ac02cd75add07.0257870115225438313722.jpg"width="250px">
-</p>
-
 ## ❕ Atenção
-* Não ataque sites privados. isto é ilegal.
+* Não ataque sites privados. isso é ilegal.
 
 ## 🖥️ Pré-requisitos
 * Ultima versão do `Python3`.
