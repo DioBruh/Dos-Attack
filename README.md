@@ -4,11 +4,14 @@
 
 ## 🖥️ Pré-requisitos
 * Ultima versão do `Python3`.
-para verificar isto, é bem simples. Basta digitar:
+para verificar isso, é bem simples. Basta você digitar:
 
 ```powershell
 python --version
 ```
+
+Caso sua versão do python não seja acima da 3.0, recomendo atualizar...
+(se bem que hoje em dia, atualiza sozinho... to refazendo o repost, fiz em 2021... perdoa aí vai)
 
 ## ☕ Utilização
 `Clone` o repositorio usando:
